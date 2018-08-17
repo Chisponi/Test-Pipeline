@@ -1,4 +1,4 @@
-package com.techprimers.testing;
+package Entelgy.developer.local;
 
 public class FizzBuzz {
 
