@@ -1,4 +1,4 @@
-package Entelgy.developer.local;
+package Prueba;
 
 import org.junit.jupiter.api.*;
 
